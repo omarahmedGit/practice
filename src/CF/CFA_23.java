@@ -4,7 +4,6 @@ public class CFA_23 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
 		char[] str = sc.next().toCharArray();
 		
 		char[] arr = new char[str.length];

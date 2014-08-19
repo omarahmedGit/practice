@@ -1,6 +1,7 @@
 package Uva;
 import java.util.*;
 import java.io.*;
+
 public class UVa193 {
 
 	
