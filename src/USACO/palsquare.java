@@ -16,6 +16,7 @@ public class palsquare {
     public static void main(String args[]) throws FileNotFoundException, IOException {
         Scanner sc=new Scanner(new FileReader("palsquare.in"));
         game(sc.nextInt());
+        sc.close();
     }
 
     private static boolean ispoly(String x) {

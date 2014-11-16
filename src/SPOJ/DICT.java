@@ -23,6 +23,7 @@ public class DICT {
 			child = new Trie[26];
 			isLeafe = false;
 		}
+		
 
 		static char[] copy(char[] str)
 		{

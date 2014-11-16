@@ -12,6 +12,7 @@ public class dualpal {
     public static void main(String args[]) throws IOException{
         Scanner sc=new Scanner(new FileReader("dualpal.in"));
         game(sc.nextInt(),sc.nextInt());
+        sc.close();
     }
     
     private static void game(int n,int low) throws IOException{

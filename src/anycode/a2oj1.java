@@ -1,3 +1,4 @@
+package anycode;
 import java.util.*;
 public class a2oj1 {
 

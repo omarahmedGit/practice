@@ -1,5 +1,4 @@
 package TC;
-import java.util.*;
 public class SRM_601_500 {
 
 	public static void main(String[] args) {

@@ -8,7 +8,7 @@ public class SRM_610_250 {
 
 	public static void main(String args[])
 	{
-		int[] a = {6,2,18};
+		//int[] a = {6,2,18};
 		System.out.println(1);
 	}
 
